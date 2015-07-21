@@ -66,8 +66,8 @@
     <preference name="KeepRunning"                value="true"/>
     <preference name="InAppBrowserStorageEnabled" value="true"/>
     
-    <preference name="LoadingDialog" value="Takeaway Horsens, Takeaway Horsens"/>
-    <preference name="LoadingPageDialog" value="Takeaway Horsens, Velkommen til Takeaway Horsens"/>
+    <preference name="LoadingDialog" value="Velkommen..."/>
+    <preference name="LoadingPageDialog" value="Velkommen..."/>
     <preference name="LogLevel" value="WARN"/>
     
     <gap:config-file platform="android" parent="/manifest/application">
